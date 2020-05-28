@@ -67,7 +67,7 @@ print  """\033[1;91m=======================================
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 CorrectUsername = "BADSHAH"
-CorrectPassword = "DKB"
+CorrectPassword = "DKB-OWNER"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
