@@ -37,12 +37,8 @@ def jalan(z):
 		time.sleep(00000.1)
 ##### LOGO #####
 logo = """
- _     _          ___         _
- | \   / |       |  __ \     | |
- | \   / |_ __   | |  | |    | |
- | |\ /| | '_|   | |  | |    | |
- | |   | | |     | |__| | |__| |
- |_|   |_|_|     |_____/  \___/
+
+BADSHAH DKB OWNER
  
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mDJ
@@ -56,8 +52,6 @@ def tik():
 		
 		print("\r\033[1;96m \x1b[1;93mSedang masuk \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(1)
 back = 0
-berhasil = []
-cekpoint = []
 oks = []
 id = []
 listgrup = []
@@ -72,8 +66,8 @@ print  """\033[1;91m=======================================
 \033[1;96mpage \033[1;93m: \033[1;92mhttps://www.facebook.com/Anonymoustricker1
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
-CorrectUsername = "DJDJDJ"
-CorrectPassword = "DJDJDJ"
+CorrectUsername = "BADSHAH"
+CorrectPassword = "DKB"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;96m \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
